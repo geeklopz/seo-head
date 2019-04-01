@@ -5,7 +5,7 @@ metatags e tricks for SEO
     <meta charset="utf-8" />
     <!-- SEO by Danilo Caetano -->
     
-    <title>Juno Capital</title>
+    <title>Title Website</title>
     <link rel="shortcut icon" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="theme-color" content="#000" />
